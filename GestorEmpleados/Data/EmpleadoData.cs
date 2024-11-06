@@ -125,7 +125,7 @@ namespace MiWebAPI.Data
         }
 
         /// <summary>
-        /// Elimina un empleado
+        /// Elimina un empleado---
         /// </summary>
         /// <param name="objeto"></param>
         /// <returns></returns>
